@@ -1,0 +1,85 @@
+.title {
+    position: absolute;
+    top:  40%;
+    left: 15%;
+    transform: translate(-20%, -20%);
+}
+
+.title h1 {
+    color: rgb(8, 8, 8);
+    font-size: 40px;
+    text-decoration: bold;
+    text-align: Center;
+}
+
+.style-font {
+    background-color: rgb(199, 195, 193);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: Center;
+    color: rgb(54, 53, 53);
+}
+
+.border1 {
+    border: 2px solid rgb(199, 195, 193)))
+    padding: 10px;
+}
+
+#wrapper {
+    margin: auto;
+    width: 1200px;
+    border: 1px solid rgb(199, 195, 193);
+}
+
+#leftmenu a :hover {
+    background: rgb(199, 195, 193);
+}
+
+#leftmenu a:link a:visited a:active {
+    padding left: 10px;
+    text-decoration: none;
+}
+
+#button {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    color: rgb(117, 117, 117);
+    transform: translate(-20%, -20%);
+}
+
+.btn {
+    border: 1px solid rgb(80, 78, 76);
+    padding: 10px 20px;
+    color: rgb(27, 25, 24);
+    text-decoration: none;
+    transition: 0.6%;
+}
+
+.btn:hover {
+    background-color: rgb(179, 176, 173);
+    color: rgb(110, 102, 93);
+}
+
+ul {
+    list-style-type: none;
+    float: right;
+    margin-top: 20px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgb(194, 178, 172);
+    padding: 5px 20px;
+}
+
+.main {
+    max-width: 500px;
+    margin: 10px;
+}

@@ -1,1 +1,2 @@
-# Tugass-Pemograman-Web-Prak-1
+# Tugas-Pemrograman-Web-Praktik
+Tugas 1
